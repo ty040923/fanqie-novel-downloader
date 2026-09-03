@@ -1,0 +1,15 @@
+{
+  "name": "fanqie-novel-downloader",
+  "version": "1.0.0",
+  "description": "小说下载框架（脚手架）",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "search": "node scripts/search.mjs",
+    "catalog": "node scripts/catalog.mjs",
+    "download": "node scripts/download.mjs"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.0"
+  }
+}

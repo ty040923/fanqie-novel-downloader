@@ -1,0 +1,4 @@
+node_modules/
+scripts/*.mjs
+*.log
+.DS_Store
